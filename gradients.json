@@ -1183,5 +1183,489 @@
     {
         "name": "Evening Night",
         "colors": ["#005AA7", "#FFFDE4"]
-    }
+    },
+    
+	{	"name": "Warm Flame",
+		"colors": ["#ff9a9e", "#fad0c4"]
+	},
+	{
+		"name": "Night Fade",
+		"colors": ["#a18cd1", "#fbc2eb"]
+	},
+	{
+		"name": "Spring Warmth",
+		"colors": ["#fad0c4", "#ffd1ff"]
+	},
+	{
+		"name": "Juicy Peach",
+		"colors": ["#ffecd2", "#fcb69f"]
+	},
+	{
+		"name": "Lady Lips",
+		"colors": ["#ff9a9e", "#fecfef"]
+	},
+	{
+		"name": "Sunny Morning",
+		"colors": ["#f6d365", "#fda085"]
+	},
+	{
+		"name": "Rainy Ashville",
+		"colors": ["#fbc2eb", "#a6c1ee"]
+	},
+	{
+		"name": "Frozen Dreams",
+		"colors": ["#fdcbf1", "#e6dee9"]
+	},
+	{
+		"name": "Winter Neva",
+		"colors": ["#a1c4fd", "#c2e9fb"]
+	},
+	{
+		"name": "Dusty Grass",
+		"colors": ["#d4fc79", "#96e6a1"]
+	},
+	{
+		"name": "Tempting Azure",
+		"colors": ["#84fab0", "#8fd3f4"]
+	},
+	{
+		"name": "Heavy Rain",
+		"colors": ["#cfd9df", "#e2ebf0"]
+	},
+	{
+		"name": "Amy Crisp",
+		"colors": ["#a6c0fe", "#f68084"]
+	},
+	{
+		"name": "Mean Fruit",
+		"colors": ["#fccb90", "#d57eeb"]
+	},
+	{
+		"name": "Deep Blue",
+		"colors": ["#e0c3fc", "#8ec5fc"]
+	},
+	{
+		"name": "Ripe Malinka",
+		"colors": ["#f093fb", "#f5576c"]
+	},
+	{
+		"name": "Cloudy Knoxville",
+		"colors": ["#fdfbfb", "#ebedee"]
+	},
+	{
+		"name": "Malibu Beach",
+		"colors": ["#4facfe", "#00f2fe"]
+	},
+	{
+		"name": "New Life",
+		"colors": ["#43e97b", "#38f9d7"]
+	},
+	{
+		"name": "True Sunset",
+		"colors": ["#fa709a", "#fee140"]
+	},
+	{
+		"name": "Morpheus Den",
+		"colors": ["#30cfd0", "#330867"]
+	},
+	{
+		"name": "Rare Wind",
+		"colors": ["#a8edea", "#fed6e3"]
+	},
+	{
+		"name": "Near Moon",
+		"colors": ["#5ee7df", "#b490ca"]
+	},
+	{
+		"name": "Wild Apple",
+		"colors": ["#d299c2", "#fef9d7"]
+	},
+	{
+		"name": "Saint Petersburg",
+		"colors": ["#f5f7fa", "#c3cfe2"]
+	},
+	{
+		"name": "Plum Plate",
+		"colors": ["#667eea", "#764ba2"]
+	},
+	{
+		"name": "Everlasting Sky",
+		"colors": ["#fdfcfb", "#e2d1c3"]
+	},
+	{
+		"name": "Happy Fisher",
+		"colors": ["#89f7fe", "#66a6ff"]
+	},
+	{
+		"name": "Blessing",
+		"colors": ["#fddb92", "#d1fdff"]
+	},
+	{
+		"name": "Sharpeye Eagle",
+		"colors": ["#9890e3", "#b1f4cf"]
+	},
+	{
+		"name": "Ladoga Bottom",
+		"colors": ["#ebc0fd", "#d9ded8"]
+	},
+	{
+		"name": "Lemon Gate",
+		"colors": ["#96fbc4", "#f9f586"]
+	},
+	{
+		"name": "Itmeo Branding",
+		"colors": ["#2af598", "#009efd"]
+	},
+	{
+		"name": "Zeus Miracle",
+		"colors": ["#cd9cf2", "#f6f3ff"]
+	},
+	{
+		"name": "Deep Blue",
+		"colors": ["#6a11cb", "#2575fc"]
+	},
+	{
+		"name": "Happy Acid",
+		"colors": ["#37ecba", "#72afd3"]
+	},
+	{
+		"name": "Awesome Pine",
+		"colors": ["#ebbba7", "#cfc7f8"]
+	},
+	{
+		"name": "New York",
+		"colors": ["#fff1eb", "#ace0f9"]
+	},
+	{
+		"name": "Mixed Hopes",
+		"colors": ["#c471f5", "#fa71cd"]
+	},
+	{
+		"name": "Fly High",
+		"colors": ["#48c6ef", "#6f86d6"]
+	},
+	{
+		"name": "Fresh Milk",
+		"colors": ["#feada6", "#f5efef"]
+	},
+	{
+		"name": "Snow Again",
+		"colors": ["#e6e9f0", "#eef1f5"]
+	},
+	{
+		"name": "February Ink",
+		"colors": ["#accbee", "#e7f0fd"]
+	},
+	{
+		"name": "Kind Steel",
+		"colors": ["#e9defa", "#fbfcdb"]
+	},
+	{
+		"name": "Soft Grass",
+		"colors": ["#c1dfc4", "#deecdd"]
+	},
+	{
+		"name": "Grown Early",
+		"colors": ["#0ba360", "#3cba92"]
+	},
+	{
+		"name": "Sharp Blues",
+		"colors": ["#00c6fb", "#005bea"]
+	},
+	{
+		"name": "Shady Water",
+		"colors": ["#74ebd5", "#9face6"]
+	},
+	{
+		"name": "Dirty Beauty",
+		"colors": ["#6a85b6", "#bac8e0"]
+	},
+	{
+		"name": "Great Whale",
+		"colors": ["#a3bded", "#6991c7"]
+	},
+	{
+		"name": "Teen Notebook",
+		"colors": ["#9795f0", "#fbc8d4"]
+	},
+	{
+		"name": "Polite Rumors",
+		"colors": ["#a7a6cb", "#8989ba"]
+	},
+	{
+		"name": "Red Salvation",
+		"colors": ["#f43b47", "#453a94"]
+	},
+	{
+		"name": "Night Party",
+		"colors": ["#0250c5", "#d43f8d"]
+	},
+	{
+		"name": "Sky Glider",
+		"colors": ["#88d3ce", "#6e45e2"]
+	},
+	{
+		"name": "Heaven Peach",
+		"colors": ["#d9afd9", "#97d9e1"]
+	},
+	{
+		"name": "Purple Division",
+		"colors": ["#7028e4", "#e5b2ca"]
+	},
+	{
+		"name": "Aqua Splash",
+		"colors": ["#13547a", "#80d0c7"]
+	},
+	{
+		"name": "Love Kiss",
+		"colors": ["#ff0844", "#ffb199"]
+	},
+	{
+		"name": "Clean Mirror",
+		"colors": ["#93a5cf", "#e4efe9"]
+	},
+	{
+		"name": "Premium Dark",
+		"colors": ["#434343", "#000000"]
+	},
+	{
+		"name": "Cochiti Lake",
+		"colors": ["#93a5cf", "#e4efe9"]
+	},
+	{
+		"name": "Summer Games",
+		"colors": ["#92fe9d", "#00c9ff"]
+	},
+	{
+		"name": "Passionate Bed",
+		"colors": ["#ff758c", "#ff7eb3"]
+	},
+	{
+		"name": "Mountain Rock",
+		"colors": ["#868f96", "#596164"]
+	},
+	{
+		"name": "Desert Hump",
+		"colors": ["#c79081", "#dfa579"]
+	},
+	{
+		"name": "Jungle Day",
+		"colors": ["#8baaaa", "#ae8b9c"]
+	},
+	{
+		"name": "Phoenix Start",
+		"colors": ["#f83600", "#f9d423"]
+	},
+	{
+		"name": "October Silence",
+		"colors": ["#b721ff", "#21d4fd"]
+	},
+	{
+		"name": "Faraway River",
+		"colors": ["#6e45e2", "#88d3ce"]
+	},
+	{
+		"name": "Alchemist Lab",
+		"colors": ["#d558c8", "#24d292"]
+	},
+	{
+		"name": "Over Sun",
+		"colors": ["#abecd6", "#fbed96"]
+	},
+	{
+		"name": "Mars Party",
+		"colors": ["#5f72bd", "#9b23ea"]
+	},
+	{
+		"name": "Eternal Constance",
+		"colors": ["#09203f", "#537895"]
+	},
+	{
+		"name": "Japan Blush",
+		"colors": ["#ddd6f3", "#faaca8"]
+	},
+	{
+		"name": "Smiling Rain",
+		"colors": ["#dcb0ed", "#99c99c"]
+	},
+	{
+		"name": "Cloudy Apple",
+		"colors": ["#f3e7e9", "#e3eeff"]
+	},
+	{
+		"name": "Big Mango",
+		"colors": ["#c71d6f", "#d09693"]
+	},
+	{
+		"name": "Healthy Water",
+		"colors": ["#96deda", "#50c9c3"]
+	},
+	{
+		"name": "Amour Amour",
+		"colors": ["#f77062", "#fe5196"]
+	},
+	{
+		"name": "Strong Stick",
+		"colors": ["#a8caba", "#5d4157"]
+	},
+	{
+		"name": "Vicious Stance",
+		"colors": ["#29323c", "#485563"]
+	},
+	{
+		"name": "Palo Alto",
+		"colors": ["#16a085", "#f4d03f"]
+	},
+	{
+		"name": "Happy Memories",
+		"colors": ["#ff5858", "#f09819"]
+	},
+	{
+		"name": "Midnight Bloom",
+		"colors": ["#2b5876", "#4e4376"]
+	},
+	{
+		"name": "Crystalline",
+		"colors": ["#00cdac", "#8ddad5"]
+	},
+	{
+		"name": "Party Bliss",
+		"colors": ["#4481eb", "#04befe"]
+	},
+	{
+		"name": "Confident Cloud",
+		"colors": ["#dad4ec", "#f3e7e9"]
+	},
+	{
+		"name": "Le Cocktail",
+		"colors": ["#874da2", "#c43a30"]
+	},
+	{
+		"name": "River City",
+		"colors": ["#4481eb", "#04befe"]
+	},
+	{
+		"name": "Frozen Berry",
+		"colors": ["#e8198b", "#c7eafd"]
+	},
+	{
+		"name": "Child Care",
+		"colors": ["#f794a4", "#fdd6bd"]
+	},
+	{
+		"name": "Flying Lemon",
+		"colors": ["#64b3f4", "#c2e59c"]
+	},
+	{
+		"name": "Hidden Jaguar",
+		"colors": ["#0fd850", "#f9f047"]
+	},
+	{
+		"name": "Nega",
+		"colors": ["#ee9ca7", "#ffdde1"]
+	},
+	{
+		"name": "Seashore",
+		"colors": ["#209cff", "#68e0cf"]
+	},
+	{
+		"name": "Marble Wall",
+		"colors": ["#bdc2e8", "#e6dee9"]
+	},
+	{
+		"name": "Cheerful Caramel",
+		"colors": ["#e6b980", "#eacda3"]
+	},
+	{
+		"name": "Night Sky",
+		"colors": ["#1e3c72", "#2a5298"]
+	},
+	{
+		"name": "Young Grass",
+		"colors": ["#9be15d", "#00e3ae"]
+	},
+	{
+		"name": "Colorful Peach",
+		"colors": ["#ed6ea0", "#ec8c69"]
+	},
+	{
+		"name": "Gentle Care",
+		"colors": ["#ffc3a0", "#ffafbd"]
+	},
+	{
+		"name": "Plum Bath",
+		"colors": ["#cc208e", "#6713d2"]
+	},
+	{
+		"name": "Happy Unicorn",
+		"colors": ["#b3ffab", "#12fff7"]
+	},
+	{
+		"name": "Solid Stone",
+		"colors": ["#243949", "#517fa4"]
+	},
+	{
+		"name": "Orange Juice",
+		"colors": ["#fc6076", "#ff9a44"]
+	},
+	{
+		"name": "Glass Water",
+		"colors": ["#dfe9f3", "#ffffff"]
+	},
+	{
+		"name": "North Miracle",
+		"colors": ["#00dbde", "#fc00ff"]
+	},
+	{
+		"name": "Fruit Blend",
+		"colors": ["#f9d423", "#ff4e50"]
+	},
+	{
+		"name": "Millennium Pine",
+		"colors": ["#50cc7f", "#f5d100"]
+	},
+	{
+		"name": "High Flight",
+		"colors": ["#0acffe", "#495aff"]
+	},
+	{
+		"name": "Mole Hall",
+		"colors": ["#616161", "#9bc5c3"]
+	},
+	{
+		"name": "Aqua Guidance",
+		"colors": ["#007adf", "#00ecbc"]
+	},
+	{
+		"name": "Sun Veggie",
+		"colors": ["#20E2D7", "#F9FEA5"]
+	},
+	{
+		"name": "Witch Dance",
+		"colors": ["#A8BFFF", "#884D80"]
+	},
+	{
+		"name": "Soft Lipstick",
+		"colors": ["#B6CEE8", "#F578DC"]
+	},
+	{
+		"name": "Salt Mountain",
+		"colors": ["#FFFEFF", "#D7FFFE"]
+	},
+	{
+		"name": "Perfect White",
+		"colors": ["#E3FDF5", "#FFE6FA"]
+	},
+	{
+		"name": "Fresh Oasis",
+		"colors": ["#7DE2FC", "#B9B6E5"]
+	},
+	{
+		"name": "Strict November",
+		"colors": ["#CBBACC", "#2580B3"]
+	},
+	{
+		"name": "ing Salad",
+		"colors": ["#B7F8DB", "#50A7C2"]
+	}
 ]
